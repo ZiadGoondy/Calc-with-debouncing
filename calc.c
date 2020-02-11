@@ -32,6 +32,7 @@ int calc (void){
 	char z1 =0 , z2 =0 , z3 =0 ;
 	int volatile num1=0 , num2 =0 ;
 	float  result=0;
+	/*hello*/
 	while (1){
 
 		while (scan != '='){
