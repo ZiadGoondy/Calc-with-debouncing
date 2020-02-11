@@ -12,7 +12,7 @@
 // ADCMode {SingleMode,FreeRunning,EXT_INT }
 // Resolution { _8bit , _10bit}
 
-enum Channel {ch0 ,ch1 ,ch2 ,ch3 ,ch4 ,ch5 ,ch6 ,ch7 };
+enum Channel {ch0 ,ch1 ,ch2 ,ch3 ,ch4 ,ch5 ,ch6 ,ch7 }; //channels
 
 #define _8bit 0
 #define _10bit 1
